@@ -4,10 +4,10 @@ This repository contains code that I wrote during my time at the Singapore-MIT A
 
 For Spartan Data:
 .csv files for chemicals:
-Bandung over 33, Bandung over 33, PM25_Hanoi, Singapore over 21, Singapore under 21, Manila over 20, Manila under 20
+Bandung over 33, Bandung over 33, PM25_Hanoi, Singapore over 21, Singapore under 21, Manila over 20, Manila under 20, cleaned dates for Bandung
 
 code:
-making 4 graphs SPARTAN, plotting all SPARTAN, single scatter plot SPARTAN, python for pie charts
+making 4 graphs SPARTAN, plotting all SPARTAN, single scatter plot SPARTAN, python for pie charts, a bit of cleaning pm2.5 dates, plot for pm2.5 abs and conc (combines with the cleaned datetime dates and plots)
 
 .csv files for speciation:
 Speciation Bandung over limit, speciation Bandung under limit, speciation Manila over limit, speciation Manila under limit, speciation Singapore over limit, speciation Singapore under limit, speciation PM_25 Hanoi
@@ -16,4 +16,9 @@ code:
 python for speciation of PM 2.5
 
 For NOAA Data:
-Final frame, Clean NOAA 50 Stations, Clean and graph NOAA CO File, NOAA Data Frame Monthly Avg
+Final frame, Clean NOAA 50 Stations, Clean and graph NOAA CO File, NOAA Data Frame Monthly Avg, python test for Phnom Penh (format used in Clean NOAA 50 Stations to make Final Frame)
+
+
+
+For WMO Data:
+jupyter notebook for tanah rata graphs (makes 1 graph and can be altered), successful code for making a plot (all iterations, need to manipulate a little for individual cases because code also cleans the dataframe)
