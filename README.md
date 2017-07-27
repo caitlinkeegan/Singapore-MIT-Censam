@@ -10,6 +10,5 @@ Bandung over 33, Bandung over 33, PM25_Hanoi, Singapore over 21, Singapore under
 Speciation Bandung over limit, speciation Bandung under limit, speciation Manila over limit, speciation Manila under limit, speciation Singapore over limit, speciation Singapore under limit, speciation PM_25 Hanoi
 
 For NOAA Data:
-Clean NOAA 50 Stations
-Clean and graph NOAA CO File
-NOAA Data Frame Monthly Avg
+.csv files:
+Clean NOAA 50 Stations, Clean and graph NOAA CO File, NOAA Data Frame Monthly Avg, making 4 graphs SPARTAN, plotting all SPARTAN, single scatter plot SPARTAN
