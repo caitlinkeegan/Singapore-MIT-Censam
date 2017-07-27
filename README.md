@@ -16,5 +16,4 @@ code:
 python for speciation of PM 2.5
 
 For NOAA Data:
-.csv files:
-Clean NOAA 50 Stations, Clean and graph NOAA CO File, NOAA Data Frame Monthly Avg
+Final frame, Clean NOAA 50 Stations, Clean and graph NOAA CO File, NOAA Data Frame Monthly Avg
